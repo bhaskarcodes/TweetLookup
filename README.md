@@ -6,3 +6,23 @@ a search keyword and also takes the number of tweets to be considered. The resul
 stored in a text file for later use. If there is no tweet corresponding to that search word, an appropriate dialog box  
 is shown. This is the first step for any twitter sentiment analysis program.  
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/bhaskarcodes/TweetLookup/master/1.png" />
+</p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/bhaskarcodes/TweetLookup/master/2.png" />
+</p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/bhaskarcodes/TweetLookup/master/3.png" />
+</p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/bhaskarcodes/TweetLookup/master/4.png" />
+</p>
+
+
