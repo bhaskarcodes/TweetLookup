@@ -1,4 +1,4 @@
-# TweetLookup
+# TwitterLookup
 This is a simple tweet extractor program that lists all the tweets containing the searched word.  
 
 This is a tweet extractor program that looks up for a given term on twitter. The program takes as an input 
