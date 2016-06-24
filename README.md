@@ -3,7 +3,7 @@ This is a simple tweet extractor program that lists all the tweets containing th
 
 ##Version 1.1
 
-Basic sentiment analysis has been implemented using Python and TextBlob library. Also, results obtained from the analysis can be viewed on a pie chart plotted using JFreeChart. Additional links and other non BMP characters have been filtered to enable text nased sentiment analysis.
+Basic sentiment analysis has been implemented using Python and TextBlob library. Also, results obtained from the analysis can be viewed on a pie chart plotted using JFreeChart. Additional links and other non BMP characters have been filtered to enable text based sentiment analysis.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/bhaskarcodes/TweetLookup/master/11.png" />
